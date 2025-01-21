@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **DSA**
 
-- 💬 Ask me about **React, Javascript, Html and css**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **tiwaririshav463@gmail.com**
 
