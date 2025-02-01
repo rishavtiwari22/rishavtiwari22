@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Backends Project**
 
-- 🌱 I’m currently learning **Nodsjs, Express, MongoDB and DSA**
+- 🌱 I’m currently learning **Nodejs, Express, MongoDB and DSA**
 
 - 👯 I’m looking to collaborate on **Frontend and Backend Projects**
 
