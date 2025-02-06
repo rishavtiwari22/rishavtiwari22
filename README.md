@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Backends Project**
 
-- 🌱 I’m currently learning **Nodejs, Express, MongoDB and DSA**
+- 🌱 I’m currently learning **Nodsjs, Express, MongoDB and DSA**
 
 - 👯 I’m looking to collaborate on **Frontend and Backend Projects**
 
 - 🤝 I’m looking for help with **DSA**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **React, Javascript, Html and css**
 
 - 📫 How to reach me **tiwaririshav463@gmail.com**
 
@@ -19,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rishavtiwari22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishavtiwari22/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rishavtiwari22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rishavtiwari22" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rishavtiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishavtiwari" height="30" width="40" /></a>
 </p>
